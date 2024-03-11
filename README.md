@@ -5,15 +5,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 📈 in constant **professional growth**
+- 📈 In constant **Professional Growth**
 
-- 💻 improving **web development**
+- 💻 Improving **Web Development**
 
-- 🧑‍🎓 ready to learn any **technology**
+- 🧑‍🎓 Ready to learn any **Technology**
 
 - 📫 How to reach me **davidarosu@gmail.com**
   
-- ☕ Never refuse a cup of **coffee**
+- ☕ Never refuse a cup of **Coffee**
 
 </td>
 <td width="50%" align="center">
