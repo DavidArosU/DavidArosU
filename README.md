@@ -31,7 +31,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws, bootstrap, css, mongodb, eclipse, html, java, js, mysql, py, ts, " />
+    <img src="https://skillicons.dev/icons?i=aws, bootstrap,css,mongodb,eclipse,html,java,js,mysql,py,ts, " />
   </a></p>
 
 ---
